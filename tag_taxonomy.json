@@ -1,0 +1,238 @@
+{
+  "Spatial Configuration": {
+    "Scale & Proportion": [
+      "Room Dimensions",
+      "Ceiling Height",
+      "Volume‑to‑Occupant Ratio",
+      "Human Scale",
+      "Monumental Scale"
+    ],
+    "Layout & Circulation": [
+      "Space Type: Open",
+      "Space Type: Enclosed",
+      "Circulation Pattern: Linear",
+      "Circulation Pattern: Radial",
+      "Circulation Pattern: Grid",
+      "Circulation Pattern: Network",
+      "Spatial Depth",
+      "Spatial Hierarchy",
+      "Prospect",
+      "Refuge",
+      "Permeability",
+      "Accessibility",
+      "Edge Type: Hard",
+      "Edge Type: Soft"
+    ],
+    "Visual Organization": [
+      "Symmetry",
+      "Asymmetry",
+      "Rhythm",
+      "Repetition",
+      "Visual Complexity",
+      "Visual Simplicity",
+      "Visual Axis",
+      "Focal Point",
+      "Framed View"
+    ]
+  },
+  "Environmental Conditions": {
+    "Lighting & Daylight": [
+      "Natural Light",
+      "Artificial Light",
+      "Light Intensity",
+      "Light Directionality",
+      "Color Temperature",
+      "Daylighting Strategy: Side‑lit",
+      "Daylighting Strategy: Top‑lit",
+      "Daylighting Strategy: Clerestory",
+      "Ambient Lighting",
+      "Task Lighting",
+      "Accent Lighting",
+      "Temporal Light Pattern",
+      "Contrast",
+      "Shadow",
+      "Glare"
+    ],
+    "Acoustics": [
+      "Ambient Sound Level",
+      "Reverberation Time",
+      "Speech Intelligibility",
+      "Sound Absorption",
+      "Sound Reflection",
+      "Sound Masking",
+      "Acoustic Privacy",
+      "Meaningful Sound",
+      "Noise Level"
+    ],
+    "Climate & Air": [
+      "Temperature Gradient",
+      "Air Movement",
+      "Radiant Temperature",
+      "Humidity",
+      "Thermal Transition",
+      "Ventilation Rate",
+      "Pollutant Level",
+      "Air Freshness",
+      "Pleasant Odor",
+      "Unpleasant Odor"
+    ]
+  },
+  "Material Properties": {
+    "Type": [
+      "Wood",
+      "Stone",
+      "Brick",
+      "Glass",
+      "Steel",
+      "Concrete",
+      "Composite",
+      "Plastic"
+    ],
+    "Visual": [
+      "Color Hue",
+      "Color Saturation",
+      "Brightness",
+      "Contrast",
+      "Visual Texture",
+      "Pattern",
+      "Transparency",
+      "Opacity",
+      "Reflectivity",
+      "Absorptivity",
+      "Matte Finish",
+      "Gloss Finish"
+    ],
+    "Tactile": [
+      "Surface Hardness",
+      "Surface Softness",
+      "Tactile Roughness",
+      "Moisture Content"
+    ],
+    "Expression": [
+      "Tectonic Expression",
+      "Material Authenticity",
+      "Material Simulation",
+      "Visible Craftsmanship",
+      "Visual Weight"
+    ]
+  },
+  "Temporal & Dynamic Features": {
+    "Element Mobility": [
+      "Fixed",
+      "Flexible",
+      "Kinetic"
+    ],
+    "Temporal Pattern": [
+      "Daily",
+      "Seasonal",
+      "Aging",
+      "Weathering"
+    ],
+    "Interactive & Digital": [
+      "Responsive Environment",
+      "Ambient Display",
+      "Digital Overlay: Virtual Reality",
+      "Digital Overlay: Augmented Reality"
+    ]
+  },
+  "Biophilic Elements": {
+    "Direct Nature": [
+      "Interior Vegetation",
+      "Exterior Vegetation",
+      "Water Feature"
+    ],
+    "Natural Materials & Views": [
+      "Natural Material",
+      "Nature View"
+    ],
+    "Biomorphic": [
+      "Biomorphic Form",
+      "Biomorphic Pattern"
+    ],
+    "Affective Cues": [
+      "Risk Cue",
+      "Mystery Cue"
+    ]
+  },
+  "Architectural Elements": {
+    "Openings": [
+      "Door",
+      "Window",
+      "Arch",
+      "Clerestory Window",
+      "Bay Window",
+      "Rose Window",
+      "Lancet Window"
+    ],
+    "Structural": [
+      "Column",
+      "Beam",
+      "Truss",
+      "Buttress",
+      "Flying Buttress",
+      "Vault",
+      "Barrel Vault",
+      "Groin Vault",
+      "Rib Vault",
+      "Dome",
+      "Gable",
+      "Pediment",
+      "Cornice",
+      "Parapet",
+      "Balcony",
+      "Balustrade",
+      "Pilaster",
+      "Capital"
+    ],
+    "Decorative": [
+      "Frieze",
+      "Ornamentation",
+      "Iconography",
+      "Decorative Installation"
+    ],
+    "Roof Types": [
+      "Gabled Roof",
+      "Hipped Roof",
+      "Flat Roof",
+      "Green Roof",
+      "Photovoltaic Panel"
+    ]
+  },
+  "Form & Geometry": {
+    "Basic": [
+      "Rectilinear",
+      "Curvilinear",
+      "Radial",
+      "Modular"
+    ],
+    "Surface": [
+      "Convex",
+      "Concave",
+      "Angular"
+    ],
+    "Pattern": [
+      "Fractal Pattern"
+    ]
+  },
+  "Smart & Interactive Systems": [
+    "Sensor Network",
+    "IoT Integration",
+    "Real‑Time Environmental Control",
+    "Digital Signage",
+    "Interactive Interface",
+    "Smart Climate System"
+  ],
+  "Architectural Styles": [
+    "Classical",
+    "Gothic",
+    "Romanesque",
+    "Renaissance",
+    "Baroque",
+    "Art Deco",
+    "Modernist",
+    "Brutalist",
+    "Post‑Modern",
+    "Contemporary",
+    "Deconstructivist"
+  ]
+}
